@@ -1,0 +1,29 @@
+current directory: /Users/myac21/ruby_app/seminar_mysql2/semi_rsv_api/vendor/bundle/ruby/3.0.0/gems/msgpack-1.4.5/ext/msgpack
+/Users/myac21/.rbenv/versions/3.0.3/bin/ruby -I /Users/myac21/.rbenv/versions/3.0.3/lib/ruby/3.0.0 -r ./siteconf20220303-3437-163jar.rb extconf.rb
+checking for ruby/st.h... yes
+checking for st.h... no
+checking for rb_enc_interned_str() in ruby.h... yes
+creating Makefile
+
+current directory: /Users/myac21/ruby_app/seminar_mysql2/semi_rsv_api/vendor/bundle/ruby/3.0.0/gems/msgpack-1.4.5/ext/msgpack
+make DESTDIR\= clean
+
+current directory: /Users/myac21/ruby_app/seminar_mysql2/semi_rsv_api/vendor/bundle/ruby/3.0.0/gems/msgpack-1.4.5/ext/msgpack
+make DESTDIR\=
+compiling buffer.c
+compiling buffer_class.c
+compiling extension_value_class.c
+compiling factory_class.c
+compiling packer.c
+compiling packer_class.c
+compiling packer_ext_registry.c
+compiling rbinit.c
+compiling rmem.c
+compiling unpacker.c
+compiling unpacker_class.c
+compiling unpacker_ext_registry.c
+linking shared-object msgpack/msgpack.bundle
+
+current directory: /Users/myac21/ruby_app/seminar_mysql2/semi_rsv_api/vendor/bundle/ruby/3.0.0/gems/msgpack-1.4.5/ext/msgpack
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 msgpack.bundle ./.gem.20220303-3437-3f8xvl/msgpack

@@ -1,0 +1,17 @@
+current directory: /Users/myac21/ruby_app/seminar_mysql2/semi_rsv_api/vendor/bundle/ruby/3.0.0/gems/racc-1.6.0/ext/racc/cparse
+/Users/myac21/.rbenv/versions/3.0.3/bin/ruby -I /Users/myac21/.rbenv/versions/3.0.3/lib/ruby/3.0.0 -r ./siteconf20220303-3437-6o73hp.rb extconf.rb
+checking for rb_block_call()... yes
+checking for rb_ary_subseq()... yes
+creating Makefile
+
+current directory: /Users/myac21/ruby_app/seminar_mysql2/semi_rsv_api/vendor/bundle/ruby/3.0.0/gems/racc-1.6.0/ext/racc/cparse
+make DESTDIR\= clean
+
+current directory: /Users/myac21/ruby_app/seminar_mysql2/semi_rsv_api/vendor/bundle/ruby/3.0.0/gems/racc-1.6.0/ext/racc/cparse
+make DESTDIR\=
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+
+current directory: /Users/myac21/ruby_app/seminar_mysql2/semi_rsv_api/vendor/bundle/ruby/3.0.0/gems/racc-1.6.0/ext/racc/cparse
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20220303-3437-ms1xxe/racc
